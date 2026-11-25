@@ -50,5 +50,5 @@ MIT.
 ## Related
 
 - [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer)
-- [box-shadow-generator](https://github.com/0xelitesystem/box-shadow-generator)
+- [layered-box-shadow-builder](https://github.com/0xelitesystem/layered-box-shadow-builder)
 - [css-clamp-calculator](https://github.com/0xelitesystem/css-clamp-calculator)
