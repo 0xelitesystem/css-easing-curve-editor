@@ -1,8 +1,8 @@
-# Cubic Bezier Editor
+# CSS Easing Curve Editor
 
 A visual CSS `cubic-bezier()` easing editor with draggable control points, a live animation preview, and a copy button. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/cubic-bezier-editor/
+**Live demo:** https://0xelitesystem.github.io/css-easing-curve-editor/
 
 ## Use
 
@@ -29,8 +29,8 @@ Everything runs in your browser. There are no network calls at all. Verify by vi
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/cubic-bezier-editor
-cd cubic-bezier-editor
+git clone https://github.com/0xelitesystem/css-easing-curve-editor
+cd css-easing-curve-editor
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
@@ -51,4 +51,4 @@ MIT.
 
 - [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer)
 - [layered-box-shadow-builder](https://github.com/0xelitesystem/layered-box-shadow-builder)
-- [css-clamp-calculator](https://github.com/0xelitesystem/css-clamp-calculator)
+- [fluid-type-clamp-builder](https://github.com/0xelitesystem/fluid-type-clamp-builder)
